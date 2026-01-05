@@ -1,0 +1,17 @@
+{
+    "bundleID": "R101Floor_QR",
+    "items": [
+        {
+            "type": "drawing",
+            "fileName": "R101Plan_Level1_W12.5.png",
+            "defaultVisible": true,
+            "physicalWidth": 12.5
+        },
+        {
+            "type": "model",
+            "fileName": "Arch_Level1.glb",
+            "defaultVisible": true,
+            "physicalWidth": 1.0
+        }
+    ]
+}
