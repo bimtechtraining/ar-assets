@@ -6,7 +6,7 @@
       "fileName": "models/Arch_Level1.glb",
       "defaultVisible": true,
       "physicalWidth": 1.0,
-      "alignment": "horizontal"
+      "alignment": "vertical"
     },
     {
       "type": "drawing",
@@ -16,4 +16,5 @@
       "alignment": "vertical"
     }
   ] 
+
 }
