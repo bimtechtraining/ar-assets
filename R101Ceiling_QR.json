@@ -1,0 +1,12 @@
+{
+    "bundleID": "R101Ceiling_QR",
+    "items": [
+           {
+      "type": "model",
+      "fileName": "models/MEP_Level1.glb",
+      "defaultVisible": true,
+      "physicalWidth": 1.0,
+      "alignment": "horizontal"
+    }
+    ]
+}
